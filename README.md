@@ -27,15 +27,20 @@ The dataset used for liver cancer detection can be found in the file ``. It cont
 3. Ensure that the dataset files is downloaded with the same structure 
 
 
-```
-
 Feel free to modify the code or experiment with different algorithms or feature engineering techniques to improve the model's performance.
 
+
 ## References
-
-- [Scikit-learn documentation on logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- [Wikipedia page on logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
-
-
+Scikit-learn documentation on logistic regression
+Wikipedia page on logistic regression
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 Please note that this project is provided for educational and informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+```
+
+
+
+Please note that this project is provided for educational and informational purposes only.
+It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
